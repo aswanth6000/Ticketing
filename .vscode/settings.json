@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "kubernetes://schema/v1%40service": "file:///e%3A/Brocamp/Week%2021/Microservices/Ticketing/infra/k8s/auth-depl.yaml"
+    }
+}
