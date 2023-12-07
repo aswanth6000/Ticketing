@@ -16,8 +16,8 @@ build:
         manual:
           - src: src/**/**.js
             dest: .
-    - image: aswanth6000/client
-      context: client
+    - image: aswanth600/client
+      context: auth/client
       docker:
         dockerfile: Dockerfile
       sync:
